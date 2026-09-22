@@ -4,14 +4,13 @@
 
 Welcome to my GitHub! 🚀
 
-I'm a Diploma Computer Science student who loves **coding, problem solving, and building projects**.  
+I'm a  Computer Science student who loves **coding, problem solving, and building projects**.  
 Currently, I'm focused on improving my programming skills and exploring the world of software development.
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Diploma in Computer Science Engineering
 - 🐍 Currently learning **Python**
 - 🧠 Practicing **Data Structures & Algorithms**
 - ⚡ Exploring **FastAPI & Backend Development**
