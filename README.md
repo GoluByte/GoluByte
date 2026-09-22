@@ -1,4 +1,4 @@
-# Hi there 👋, I'm GoluByte
+# Hi there 👋, I'm GoluVerma
 
 ### 💻 CSE Student | Python Developer in Progress | Tech Enthusiast
 
